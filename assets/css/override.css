@@ -1,0 +1,72 @@
+#accolades, #knowledge { padding-top: 100px; }
+#behance-portfolio { margin: 0 auto; }
+#contact { background-color: #000; }
+#references .flexslider.references > .slides > .item .content p, 
+#profile .profile-text  { text-align: left; }
+
+.accolades > .item > i { left: 20px; width: 20px; height: 20px; }
+.contact-details .fa { color: #a1a1a1; background-color: #222222; padding: 10px; border-radius: 8px; font-size: 30px; }
+.img-responsive { width: 100%; margin: 0 auto; }
+.item.col-md-2 { margin: 0; width: 25% !important; float: left !important; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; border: 2px solid #000; }
+.portfolio { max-width: 1200px; margin: 30px auto; }
+.portfolio .item > .project-wrapper > .project-link { margin-left: -60px; }
+.portfolio .item > .project-wrapper > .project-title > h4 { line-height: 1em !important; }
+.portfolio .item > .project-wrapper > .project-title > h4 a { color: #fff; }
+.services .item > .inner-content { text-align: left; }
+.services .item { min-height: 250px; }
+
+header.hero .hero-body .hero-text h1.small > span.blinker:before { margin-top: -35px; }
+
+#contact .contact-form .form-group .input-group textarea,
+#contact .contact-form .form-group .input-group input { background-color: #101010; border-bottom: #222; padding: 10px; }
+
+#contact .contact-form .form-group button { background-color: #990000; color: #fff; max-width: 500px; }
+
+#portfolio .col-md-12.text-center { margin-bottom: 0; }
+#references { background-image: url(../img/bg-references2.jpg); }
+header.hero { background-image: url('../img/bg-hero2.jpg'); }
+
+.portfolio .item > .project-wrapper:hover:before {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.icon-Left-3:before {
+    content: "<";
+}
+
+.icon-Right-3:before {
+    content: ">";
+}
+
+#references .flexslider.references > .slides > .item .profile:before {
+	display: none;
+}
+
+#references .flexslider.references > .flex-direction-nav-custom > li > a {
+	cursor: pointer;
+}
+.panel-group.resume .resume-item .resume-year {
+	width: 140px;
+}
+.portfolio .item {
+	box-sizing:border-box;
+  	-moz-box-sizing:border-box;
+  	-webkit-box-sizing:border-box;
+	border: 1px solid #000;
+	margin: 0;
+}
+.navbar.navbar-fixed-top .navbar-toggle {
+	display: none;
+}
+
+@media (min-width: 768px) {
+  #profile .profile-text {
+    text-align: left !important;
+  }
+}
+@media screen and (max-width: 687px) {
+.item.col-md-2 { width: 33.33% !important; }
+}
+
+@media screen and (max-width: 430px) {
+.item.col-md-2 { width: 50% !important; }
+}

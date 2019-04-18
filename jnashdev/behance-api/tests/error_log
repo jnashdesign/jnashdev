@@ -1,0 +1,18 @@
+[30-Jun-2015 20:02:18 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home2/nupenetw/public_html/jnashdev/behance-api/tests/ClientTest.php on line 5
+[30-Jun-2015 20:03:07 America/Denver] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home2/nupenetw/public_html/jnashdev/behance-api/tests/ClientTest.php on line 5
+[30-Jun-2015 20:08:58 America/Denver] PHP Warning:  file_get_contents(https://www.behance.net/v2/users/USER?api_key=API_KEY): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 17
+[30-Jun-2015 20:08:58 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 20
+[30-Jun-2015 20:09:22 America/Denver] PHP Warning:  file_get_contents(https://www.behance.net/v2/users/USER?api_key=API_KEY): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 17
+[30-Jun-2015 20:09:22 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 20
+[30-Jun-2015 20:10:39 America/Denver] PHP Warning:  file_get_contents(https://www.behance.net/v2/users/USER?api_key=API_KEY): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 17
+[30-Jun-2015 20:10:39 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 20
+[30-Jun-2015 20:16:29 America/Denver] PHP Warning:  file_get_contents(https://www.behance.net/v2/users/USER?api_key=API_KEY): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 17
+[30-Jun-2015 20:16:29 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/nupenetw/public_html/jnashdev/behance-api/tests/BehanceTest.php on line 20
+[30-Jun-2015 20:55:39 America/Denver] PHP Notice:  Undefined index: covers in /home2/nupenetw/public_html/jnashdev/behance-api/tests/ClientTest.php on line 16
+[30-Jun-2015 20:55:48 America/Denver] PHP Notice:  Undefined index: covers in /home2/nupenetw/public_html/jnashdev/behance-api/tests/ClientTest.php on line 16
+[30-Jun-2015 20:57:13 America/Denver] PHP Notice:  Undefined index: covers in /home2/nupenetw/public_html/jnashdev/behance-api/tests/ClientTest.php on line 16
+[30-Jun-2015 21:01:13 America/Denver] PHP Notice:  Undefined index: covers in /home2/nupenetw/public_html/jnashdev/behance-api/tests/ClientTest.php on line 16
